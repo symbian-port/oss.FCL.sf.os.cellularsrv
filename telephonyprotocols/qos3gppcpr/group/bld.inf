@@ -18,6 +18,8 @@
 PRJ_EXPORTS
 ../inc/Qos3GPP_subconparams.h          SYMBIAN_OS_LAYER_PUBLIC_EXPORT_PATH(networking/qos3gpp_subconparams.h)
 ../inc/Qos3GPP_subconparams.inl        SYMBIAN_OS_LAYER_PUBLIC_EXPORT_PATH(networking/qos3gpp_subconparams.inl)
+../inc/Qos3GPP_subconparams.h          SYMBIAN_OS_LAYER_PUBLIC_EXPORT_PATH(networking/Qos3GPP_subconparams.h)
+../inc/Qos3GPP_subconparams.inl        SYMBIAN_OS_LAYER_PUBLIC_EXPORT_PATH(networking/Qos3GPP_subconparams.inl)
 ../inc/Qos3GPP_subconparams_factory.h  SYMBIAN_OS_LAYER_PLATFORM_EXPORT_PATH(networking/qos3gpp_subconparams_factory.h)
 
 ../group/Qos3GPP.iby /epoc32/rom/include/qos3gpp.iby
